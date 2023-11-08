@@ -139,8 +139,11 @@ class _ShopFormPageState extends State<ShopFormPage> {
                         );
                       },
                     );
+                    //pindah sini biar pesan tulisan "harga tidak kosong", dll. muncul
+                    _formKey.currentState!.reset();
                   }
-                  _formKey.currentState!.reset();
+                  //di instruksi aslinya di sini
+                  //  _formKey.currentState!.reset();
                 },
                 child: const Text(
                   "Save",
