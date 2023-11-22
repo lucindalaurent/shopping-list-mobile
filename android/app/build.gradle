@@ -57,13 +57,13 @@ android {
              storePassword = "$System.env.KEY_PASSWORD"
              keyAlias = "release"
              keyPassword = "$System.env.KEY_PASSWORD"
-        }
-    }
-    buildTypes {
-    release {
+     }
+}
+ buildTypes {
+     release {
          signingConfig signingConfigs.release
-        }
-    }
+     }
+}
 }
 
 flutter {
