@@ -1,16 +1,9 @@
-# shopping_list
+Nama    : Lucinda Laurent
 
-A new Flutter project.
+NPM     : 2206024745
 
-## Getting Started
+Kelas   : PBP A
 
-This project is a starting point for a Flutter application.
+[![Build status](https://build.appcenter.ms/v0.1/apps/c501a68a-aa33-4c4f-bf65-177ba0fb9f98/branches/main/badge)](https://appcenter.ms) 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[App's Public Link](https://appcenter.ms/orgs/laurentlucc/apps/Shopping-List/distribute/distribution-groups/Public/overview)
